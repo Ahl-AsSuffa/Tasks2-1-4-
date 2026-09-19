@@ -1,0 +1,15 @@
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\bin\Debug\net10.0\Tasks3.exe
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\bin\Debug\net10.0\Tasks3.deps.json
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\bin\Debug\net10.0\Tasks3.runtimeconfig.json
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\bin\Debug\net10.0\Tasks3.dll
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\bin\Debug\net10.0\Tasks3.pdb
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\Tasks3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\Tasks3.AssemblyInfoInputs.cache
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\Tasks3.AssemblyInfo.cs
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\Tasks3.csproj.CoreCompileInputs.cache
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\Tasks3.dll
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\refint\Tasks3.dll
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\Tasks3.pdb
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\Tasks3.genruntimeconfig.cache
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\ref\Tasks3.dll
+C:\Users\Syaba\source\repos\Tasks3\Tasks3\obj\Debug\net10.0\Tasks3.csproj.Up2Date
